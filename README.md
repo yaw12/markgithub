@@ -4,4 +4,5 @@
 date
 cal 9 1981
 df -h 
-chmod +x README.md
+echo " i ran all the time" >> otuo.txt
+w
