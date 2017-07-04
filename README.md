@@ -1,5 +1,7 @@
+#!/bin/bash
 # markgithub
-github tutorial
-This is a new job
-whzt is the meaning of this
-the file is changed for now???
+#github tutorial 
+date
+cal 9 1981
+df -h 
+chmod +x README.md
